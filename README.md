@@ -11,7 +11,7 @@ $ my-tg-bot/bin/pip install python-steam-api
 
 $ my-tg-bot/bin/pip install pyTelegramBotAPI
 
-# "pipx is strongly recommended for installing applications"
+# "pipx is strongly recommended for installing applications" but "For libraries ... you should create a virtual environment yourself."
 
 Secondly, add your Telegram Bot Token and Steam API Key to .env via
 
