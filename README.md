@@ -4,8 +4,11 @@ You can gamble or use SteamApi to check your friend's time in games
 # Guide 
 First of all, you need to install libraries such as: python-steam-api, pyTelegramBotAPI.
 This bot was hosted on linux, so i installed them in a Python virtual environment
+
 $ python -m venv my-tg-bot
+
 $ my-tg-bot/bin/pip install python-steam-api
+
 $ my-tg-bot/bin/pip install pyTelegramBotAPI
 
 # "pipx is strongly recommended for installing applications"
