@@ -17,8 +17,10 @@ Secondly, add your Telegram Bot Token and Steam API Key to .env via
 
 $ nano .env
 
-or use any text editor
+or use any text editor, then activate them and your .env
 
+$ source .env
+$ source my-tg-bot/bin/activate
 $ python3 bot.py
 
 # If you want to change something, feel free to do so
